@@ -1,0 +1,6 @@
+x = input("Guess a number")
+x = input("Multiply the guessed number by 2")
+x = input("Add 8 with the result")
+x = input("Divide the whole result by 2")
+x = input("Subtract the guessed number from the result")
+print("The final result is 4 \n")

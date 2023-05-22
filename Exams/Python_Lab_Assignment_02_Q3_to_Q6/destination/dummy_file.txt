@@ -1,0 +1,6 @@
+This is a dummy file.
+
+As no blank folder is retained in git hub, 
+that is why; 
+this dummy file is created to retain 
+the destination folder in the git repository.
